@@ -5,7 +5,7 @@
  * 地址：[https://github.com/AnswerXu/ZBScrapeViewDemo.git](https://github.com/AnswerXu/ZBScrapeViewDemo.git)
 
 ### 效果图
-![image]()
+![image](https://github.com/AnswerXu/ZBScrapeViewDemo/blob/master/ReadImage/scrape.gif)
 
 ### 使用方法
 * 手动导入：将ZBScrapeView文件夹拖入项目即可
