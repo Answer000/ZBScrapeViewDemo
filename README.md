@@ -9,7 +9,10 @@
 
 ### 使用方法
 * 手动导入：将ZBScrapeView文件夹拖入项目后引入ZBScrapeView.h头文件即可
-* pods导入：pod 'ZBScrapeView', '~> 0.0.1'
+* pods导入：
+```
+  pod 'ZBScrapeView', '~> 0.0.1'
+```
  
 * 代码创建
 ```Objc
