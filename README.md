@@ -1,4 +1,4 @@
-# ZBScrapeViewDemo
+# ZBScrapeView
 
 ### 框架作用
  * 实现图片擦除效果
@@ -8,7 +8,8 @@
 ![image](https://github.com/AnswerXu/ZBScrapeViewDemo/blob/master/ReadImage/scrape.gif)
 
 ### 使用方法
-* 手动导入：将ZBScrapeView文件夹拖入项目即可
+* 手动导入：将ZBScrapeView文件夹拖入项目后引入ZBScrapeView.h头文件即可
+* pods导入：pod 'ZBScrapeView', '~> 0.0.1'
  
 * 代码创建
 ```Objc
